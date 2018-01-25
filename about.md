@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+Taken is a two column minimalist Jekyll theme.
 
-email: agus[at]python.web.id
+Taken is based on [chapter tumblr theme.](http://theme-chapter.tumblr.com/)
+
+You can fork taken from [here.](https://github.com/vfalanis/taken)
